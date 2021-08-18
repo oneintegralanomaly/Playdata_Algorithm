@@ -5,7 +5,7 @@
 
 ***
 
-![bb_bug](https://github.com/oneintegralanomaly/Playdata_Algorithm/blob/main/image/bug.jfif)
+![bug](https://user-images.githubusercontent.com/87700516/129981929-cfcb4b87-783c-4ace-9788-2cf77e556208.png)
 
 ***
 
